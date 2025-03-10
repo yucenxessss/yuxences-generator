@@ -1,28 +1,28 @@
 {
-    "token": "DISCORD-BOT-TOKEN",
-    "guild-id": "DISCORD-SERVER-ID",
+    "token": "MTMwODQ1MDg4MDgwMjI1ODk0NA.GP9CuX.1WVBIh7MmSMTViMVprTnGH1ftpUTs57tJKkLUE",
+    "guild-id": "1264202318161776654",
 
     "stock-command-silent": false,
     "remove-capture-from-stock": true,
     "commands-give-cooldown": true,
 
-    "gen-channels": [1234533378],
-    "premium-gen-channels": [1234565589],
+    "gen-channels": [1348534944812761181],
+    "premium-gen-channels": [1348534983018680441],
 
-    "admin-roles": [12345644489],
-    "default_cooldown": 600,
+    "admin-roles": [1348535295888588810],
+    "default_cooldown": 0,
     "roles": [
         {
-            "id": 12345678987654322,
-            "free-cooldown": 600,
-            "premium-cooldown": 300,
+            "id": 1317749325279002714,
+            "free-cooldown": 0,
+            "premium-cooldown": 0,
             "gen-access": ["all"],
             "remove-if-expired": false
         },
         {
-            "id": 12345678987654321,
-            "free-cooldown": 300,
-            "premium-cooldown": 60,
+            "id": 1348535295888588810,
+            "free-cooldown": 0,
+            "premium-cooldown": 0,
             "gen-access": ["all"],
             "remove-if-expired": true
         }
@@ -32,8 +32,8 @@
     "subscription-stages": ["Free", "Premium"],
 
     "messages": {
-        "altsent": "Thank you for using **AtluzkaGEN**",
-        "footer-msg": "github.com/Atluzka/account-gen-bot"
+        "altsent": "Thank you for using Yuxences Service",
+        "footer-msg": "nelontop"
     },
 
     "generate-settings": {
